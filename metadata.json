@@ -1,0 +1,6 @@
+{
+  "name": "Keyboard Event Visualizer",
+  "description": "An educational demonstration tool to visualize keyboard events, timestamps, and counts with a secure, non-persistent logging interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
